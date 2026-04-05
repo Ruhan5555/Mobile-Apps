@@ -1,0 +1,8 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "39pCBMLP5srI6-Osg0AkQ"
+uri = "file://artifacts/car-sales-app/assets/images/icon.png"
+type = "image"
+title = "car sales app icon"
